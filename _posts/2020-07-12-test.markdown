@@ -1,0 +1,30 @@
+---
+layout: post
+title: 'Test'
+date: 2020-07-12 10:07:42 -0300
+categories: jekyll update
+---
+
+```ruby
+# ...ruby code
+def print_hi(name)
+puts "Hi, #{name}"
+end
+print_hi('Tom')
+#=> prints 'Hi, Tom' to STDOUT.
+```
+
+
+```javascript
+//Javascript
+console.log('hello')
+```
+
+```python
+#python
+for i in range(0,5):
+    print(i)
+```
+```php
+echo 'Hello PHP';
+```
